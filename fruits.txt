@@ -1,7 +1,12 @@
-Dates
+ Dates
 Banana
 Water melon
 Pineapple
 Falsa
+<<<<<<< HEAD
 tomato
+=======
+Apple
+>>>>>>> f85917874d75cd61f03778c70eb6f80cfff619f9
 Mango
+
