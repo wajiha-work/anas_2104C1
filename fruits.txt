@@ -3,4 +3,6 @@ Banana
 Water melon
 Pineapple
 Falsa
+Apple
 Mango
+Tomato
