@@ -6,3 +6,6 @@ Falsa
 Apple
 Mango
 Tomato
+Copy
+Pencil
+Bread
